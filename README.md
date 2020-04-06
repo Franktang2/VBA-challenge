@@ -1,6 +1,4 @@
-VBA Challenge
-
-Background
+# Background
 
 For this project, I created a VBA (Visual Basic) script to analyze some stock market data. 
 
@@ -8,7 +6,7 @@ The data is inside a Microsoft Excel workbook and includes stock data for three 
 
 Each year is a different tab/sheet inside the workbook.
 
-About the Script
+# About the Script
 
 It loops through all the stocks for one year for each run and takes the following information:
 
