@@ -10,10 +10,15 @@ About the Script
 
 It loops through all the stocks for one year for each run and takes the following information:
 
-The ticker symbol
-Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
-The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
-The total stock volume of the stock.
-It applies conditional formatting by highlighting positive yearly change values in green and negative yearly change values in red.
-Finally, it return the stock with the greatest percent increase, greatest percent decrease, and greatest total volume.
+-The ticker symbol.
+
+-Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+
+-The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+
+-The total stock volume of the stock.
+
+-It applies conditional formatting by highlighting positive yearly change values in green and negative yearly change values in red.
+
+-Finally, it return the stock with the greatest percent increase, greatest percent decrease, and greatest total volume.
 
