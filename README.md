@@ -22,5 +22,5 @@ It loops through all the stocks for one year for each run and takes the followin
 
 -It applies conditional formatting by highlighting positive yearly change values in green and negative yearly change values in red.
 
--Finally, it return the stock with the greatest percent increase, greatest percent decrease, and greatest total volume.
+-Finally, it returns the stock with the greatest percent increase, the greatest percent decrease, and the greatest total volume.
 
